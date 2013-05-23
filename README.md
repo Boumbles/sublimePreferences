@@ -10,6 +10,8 @@ clone the repository to wherever Sublime Text puts its snippets
 
 ### Linux:
 
+~/.config/sublime-text-2/Packages/User
+
 ### Windows: ###
 
 C:\Users\username\AppData\Roaming\Sublime Text 2\Packages\User
