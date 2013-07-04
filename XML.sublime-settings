@@ -1,0 +1,17 @@
+{
+	"extensions":
+	[
+		"xml",
+		"xsd",
+		"xslt",
+		"svg",
+		"ui",
+		"conf",
+		"cbproj",
+		"rules",
+		"vsprops",
+		"props",
+		"user",
+		"groupproj"
+	]
+}
