@@ -3,6 +3,7 @@
 	[
 		"Alignment",
 		"BracketHighlighter",
+		"CTags",
 		"CUDA C++",
 		"DocBlockr",
 		"Gist",
