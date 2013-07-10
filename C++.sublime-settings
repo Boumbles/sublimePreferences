@@ -12,6 +12,7 @@
 		"inl",
 		"ipp",
 		"cli",
-		"moc"
+		"moc",
+		"hui"
 	]
 }
