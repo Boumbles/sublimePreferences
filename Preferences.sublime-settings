@@ -1,5 +1,6 @@
 {
 	"bold_folder_labels": true,
+	"detect_indentation": false,
 	"draw_white_space": "all",
 	"find_selected_text": true,
 	"font_face": "Ubuntu Mono",
