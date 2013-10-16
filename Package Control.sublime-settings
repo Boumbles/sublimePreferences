@@ -7,11 +7,8 @@
 		"CUDA C++",
 		"DocBlockr",
 		"Gist",
-		"Git",
 		"Git Config",
-		"GitGutter",
 		"GitHub Flavored Markdown Preview",
-		"Github Tools",
 		"Gitignore",
 		"Markdown Preview",
 		"MSBuild",
@@ -19,9 +16,9 @@
 		"Package Control",
 		"Search Stack Overflow",
 		"SideBarEnhancements",
-		"SideBarGit",
 		"SublimeBlockCursor",
 		"SublimeCodeIntel",
+		"SublimeGDB",
 		"SublimeLinter",
 		"Theme - Soda"
 	]

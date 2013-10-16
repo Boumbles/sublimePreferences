@@ -12,6 +12,7 @@
 		"vsprops",
 		"props",
 		"user",
-		"groupproj"
+		"groupproj",
+		"vcxproj"
 	]
 }
