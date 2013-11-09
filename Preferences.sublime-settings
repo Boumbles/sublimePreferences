@@ -7,7 +7,8 @@
 	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
-	[ "Vintage"
+	[
+		"Vintage"
 	],
 	"rulers":
 	[
@@ -28,6 +29,6 @@
 	},
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
-    "vintageous_use_ctrl_keys": true,
-    "vintageous_hlsearch": true,
+	"vintageous_hlsearch": true,
+	"vintageous_use_ctrl_keys": true
 }
