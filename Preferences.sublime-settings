@@ -28,7 +28,7 @@
 		"result_title": "List Of Tasks"
 	},
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false,
+	"trim_trailing_white_space_on_save": true,
 	"vintageous_hlsearch": true,
 	"vintageous_use_ctrl_keys": true
 }
