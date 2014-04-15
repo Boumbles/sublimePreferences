@@ -7,8 +7,11 @@
 { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 { "keys": ["ctrl+f"], "command": "show_panel", "args": {"panel": "find"} },
 { "keys": ["ctrl+w"], "command": "close" },
-{ "keys": ["ctrl+c"], "command": "copy" }, 
+{ "keys": ["ctrl+c"], "command": "copy" },
 { "keys": ["ctrl+x"], "command": "cut" },
-{ "keys": ["ctrl+v"], "command": "paste" }
+{ "keys": ["ctrl+v"], "command": "paste" },
+{ "keys": ["ctrl+n"], "command": "new_file" },
+{ "keys": ["ctrl+s"], "command": "save" }
+
 
 ]
