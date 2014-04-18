@@ -9,6 +9,7 @@
 		"DocBlockr",
 		"Dracula Color Scheme",
 		"Gist",
+		"Git",
 		"Git Config",
 		"GitGutter",
 		"GitHub Flavored Markdown Preview",
@@ -17,12 +18,12 @@
 		"MSBuild",
 		"Open URL",
 		"Package Control",
-		"Search Stack Overflow",
 		"SideBarEnhancements",
 		"SublimeBlockCursor",
 		"SublimeCodeIntel",
 		"SublimeGDB",
 		"SublimeLinter",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Unity3D"
 	]
 }

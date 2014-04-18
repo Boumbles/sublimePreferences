@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+${1:Species} (${2:sex}) @ ${3:item}
+Ability: ${4:ability}
+EVs: ${5:HP} HP / ${6:Atk} Atk / ${7:Def} Def / ${8:Satk} Satk / ${9:SDef} SDef / ${10: Spd} Spd
+${11:Nature} Nature
+- ${12:Move1}
+- ${13:Move2}
+- ${14:Move3}
+- ${15:Move4}
+]]></content>
+    <tabTrigger>pokemon</tabTrigger>
+</snippet>
