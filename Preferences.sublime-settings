@@ -8,11 +8,14 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"MSBuild",
+		"Markdown Preview"
 	],
 	"rulers":
 	[
 		100
 	],
+	"show_full_path": false,
 	"tab_size": 4,
 	"todo":
 	{
